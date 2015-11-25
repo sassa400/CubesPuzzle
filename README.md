@@ -1,6 +1,6 @@
 # CubesPuzzle
 
-Cubes Puzzle Task **(In this time only base task is solved)**
+Cubes Puzzle Task
 
 Create a computer program that solves the given cubes puzzles and
 prints the solution(s) in ASCII format into a file in unfolded format
